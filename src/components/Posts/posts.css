@@ -1,0 +1,33 @@
+.main-cont {
+    min-height: 100vh;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+}
+.main-heading {
+    text-align: center;
+    text-align: center;
+    color:#19619c ;
+    font-size: 36px;
+    background-color: rgb(151, 173, 55);
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.list-cont {
+    margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+
+}
+
+.section-form {
+    display: felx;
+    justify-content: center;
+    align-self: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background-color: rgb(220, 220, 255);
+    padding: 2rem;
+    border-radius: 12px;
+    width: 70%;
+}
